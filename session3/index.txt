@@ -1,0 +1,13 @@
+Index of es6 features
+
+==========================
+Arrow function 
+What is object and different ways of creating object
+What is array and different ways of creating array
+few new loop in es6
+forEach, map, filter, for...in, for...of 
+===========================
+classes  in es6
+modules in es6
+inhanced object litterals
+every, some, reduce method
