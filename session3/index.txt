@@ -18,6 +18,11 @@ String.endsWith()
 findIndex()
 The isNaN() Method
 Object entries()
+===========================
+What is callback function 
+what is promise in javascript
+what is async...await
+===========================
 what is map 
 what is set
 
