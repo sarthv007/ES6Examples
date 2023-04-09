@@ -11,3 +11,14 @@ classes  in es6
 modules in es6
 inhanced object litterals
 every, some, reduce method
+===========================
+String.includes()
+String.startsWith()
+String.endsWith()
+findIndex()
+The isNaN() Method
+Object entries()
+what is map 
+what is set
+
+
