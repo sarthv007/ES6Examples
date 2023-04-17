@@ -21,6 +21,12 @@ Object entries()
 ===========================
 What is callback function 
 what is promise in javascript
+type of promise
+promise.All()
+promise.race()
+promise.allSettled()
+promise.Any()
+
 what is async...await
 ===========================
 what is map 
